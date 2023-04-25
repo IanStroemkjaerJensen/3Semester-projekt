@@ -1,4 +1,4 @@
-# semester3Project - forum
+# 3. Semester Project - Forum and concurrency
 
 # Table of content
 - Overview
